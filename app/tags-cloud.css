@@ -1,0 +1,19 @@
+.tag {
+  display: inline-block;
+  padding: 3px 6px;
+  color: #0f7595;
+  cursor: pointer;
+  border: solid 1px #0f7595;
+  border-radius: 5px;
+  vertical-align: middle;
+  margin: 2px 5px;
+}
+
+.tag:hover {
+  color: #ffffff;
+  background: #0f7595;
+}
+
+.page-types {
+  padding-left:10px;
+}
